@@ -46,9 +46,8 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 
 ## 📌 Dashboard Preview
 
-> (Optional: Add screenshot as `assets/preview.png` and uncomment below line)
 
-![Dashboard Preview](assets/preview.png) 
+![Dashboard Preview](Assets/Preview.png) 
 
 ---
 

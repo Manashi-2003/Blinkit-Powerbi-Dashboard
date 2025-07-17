@@ -1,5 +1,3 @@
-# Blinkit-Powerbi-Dashboard
-A Power BI dashboard created for visual analysis of Blinkit's sales performance data.
 # Blinkit Power BI Dashboard (Sales Performance Analysis)
 
 This repository contains a Power BI dashboard project built using public data provided in a tutorial by *Data Tutorials (YouTube)*. The project analyzes **Blinkit’s sales performance, customer satisfaction, and inventory distribution** using various KPIs and visualizations.
@@ -46,7 +44,7 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 
 ---
 
-##  Dashboard Preview
+## 📌 Dashboard Preview
 
 > (Optional: Add screenshot as `assets/preview.png` and uncomment below line)
 
@@ -54,7 +52,7 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 
 ---
 
-## How to Use This
+## 📌 How to Use This
 
 1. Download the `.pbix` file from this repo.
 2. Open it in Power BI Desktop.
@@ -63,13 +61,13 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 
 ---
 
-## About the Project
+## 📌 About the Project
 
 This is my **first Power BI dashboard project**, created by following a full-length tutorial to learn Power BI fundamentals. I built it independently using the provided dataset and developed all visuals, DAX measures, and data modeling.
 
 ---
 
-##  Author
+## 📌 Author
 
 **Manashi Ruidas**  
 📍 Beginner Data Analyst | AIML Student  
@@ -77,12 +75,12 @@ This is my **first Power BI dashboard project**, created by following a full-len
 
 ---
 
-##  Credits
+## 📌 Credits
 
 - Dataset & Tutorial: [Data Tutorials YouTube Channel](https://www.youtube.com/@datatutorials1)
 
 ---
 
-##  License
+## 📌 License
 
 This project is for educational purposes only. Feel free to fork, study, or reuse it for learning.
